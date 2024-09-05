@@ -1,0 +1,4 @@
+#Thu Sep 05 09:10:55 IST 2024
+base.0=/Users/rajendrafodase/Documents/Archive/RajendraFlutter/cartgreektask/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
